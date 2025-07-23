@@ -39,7 +39,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My World, I'm DevOps Engineer</h1>
+    <h1>Welcome to My World, I'm Kola and I'm a DevOps Engineer</h1>
 </header>
 
 <nav>
