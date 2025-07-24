@@ -39,7 +39,7 @@
 <body>
 
 <header>
-    <h1>Welcome to My World, I'm Kola Surendra and I'm a DevOps Engineer</h1>
+    <h1>I'm Kola Surendra and I'm a DevOps Engineer</h1>
 </header>
 
 <nav>
@@ -50,7 +50,7 @@
 
 <main>
     <h2>About Me</h2>
-    <p>Hello! I'm learning web development. This is a sample web page built with HTML and CSS.</p>
+    <p>Hello! I'm learning DevOps Tools and Practices. This is a sample web page built with HTML and CSS.</p>
     <img src="https://via.placeholder.com/600x300" alt="Sample Image">
 </main>
 
