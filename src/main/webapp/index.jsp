@@ -39,7 +39,7 @@
 <body>
 
 <header>
-    <h1>I'm Kola Surendra and I'm a New DevOps Engineer</h1>
+    <h1>I'm Kola Surendra and I'm a New DevOps Engineer and I have to Learn </h1>
 </header>
 
 <nav>
