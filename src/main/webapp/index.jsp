@@ -79,7 +79,7 @@
 <main>
     <h2>Welcome to My DevOps Journey!</h2>
     <p>
-        I'm currently building/upgrading my skills in the world of DevOps. I'm working with tools like Jenkins, Git, Docker, Linux, and AWS.
+        I'm currently building my skills in the world of DevOps. I'm working with tools like Jenkins, Git, Docker, Linux, and AWS.
         This page is a small step in my journey — built using basic HTML and CSS as I grow toward mastering infrastructure automation.
     </p>
     <img src="https://via.placeholder.com/800x400" alt="DevOps Illustration">
